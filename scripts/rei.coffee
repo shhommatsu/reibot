@@ -17,7 +17,7 @@
 #  shhommatsu
 
 
-array_message [
+array_message = [
 	"This is Torrington Control. State your affiliation and objective",
 	"……笑うなよ。あの子の直感に賭けてみるさ",
 	"絶望を退ける勇気を持て。君がガンダムのパイロット……ニュータイプであるなら",
