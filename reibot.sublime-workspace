@@ -1,0 +1,499 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"mar",
+				"margin-left"
+			],
+			[
+				"sho",
+				"shopInfo"
+			],
+			[
+				"s",
+				"shopSummary"
+			],
+			[
+				"col",
+				"col-xs-6"
+			],
+			[
+				"tp",
+				"tp-title"
+			],
+			[
+				"icot-list",
+				"icot-listwrap"
+			],
+			[
+				"ma",
+				"margin-bottom"
+			],
+			[
+				"li",
+				"link	Tag"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"shop",
+				"shopName"
+			],
+			[
+				"ope",
+				"openPingWindow"
+			],
+			[
+				"jso",
+				"jsonAfter"
+			],
+			[
+				"json",
+				"jsonAfter"
+			],
+			[
+				"re",
+				"request"
+			],
+			[
+				"la",
+				"latitude"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"lat",
+				"latLong"
+			],
+			[
+				"get",
+				"getCurrentPlace"
+			],
+			[
+				"xm",
+				"xmlArray"
+			],
+			[
+				"ca",
+				"categories"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"cont",
+				"controller"
+			],
+			[
+				"pu",
+				"public"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"fo",
+				"font-weight"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"Cate",
+				"Category"
+			],
+			[
+				"Categor",
+				"category"
+			],
+			[
+				"cate",
+				"categories"
+			],
+			[
+				"ba",
+				"background-color"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 52.0,
+		"selected_items":
+		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"mar",
+				"Set Syntax: Markdown Extended"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"p",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 417.0
+	},
+	"console":
+	{
+		"height": 167.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/kazuhisa/rei_bot/Procfile",
+		"/Users/kazuhisa/rei_bot/scripts/storage.coffee",
+		"/Users/kazuhisa/rei_bot/scripts/ping.coffee",
+		"/Users/kazuhisa/Dropbox/style.css",
+		"/Users/kazuhisa/Dropbox/撮ってインフォ納品物20140820/aeonapp_ios/Libs/wd_common.h",
+		"/Users/kazuhisa/Downloads/index.html",
+		"/private/var/folders/5g/cn3xj6p11t1gnjcm31y0_8280000gn/T/8727217b-b71a-4e5f-9e79-3b04c9d04b23/var/www/html/livescopar-dev/townpage/page.html",
+		"/Users/kazuhisa/Documents/vagrant-wp/README-ja.md",
+		"/Users/kazuhisa/Documents/ReiFrontier/Yokocho_app_and/app/src/main/java/jp/reifrontier/yokocho_app_and/API/ApiClient.java",
+		"/Users/kazuhisa/Dropbox/butterknife-master/butterknife-sample/src/main/java/com/example/butterknife/SimpleActivity.java",
+		"/Users/kazuhisa/Documents/ReiFrontier/7daysHtml/7 days/index.html",
+		"/Users/kazuhisa/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/private/var/folders/5g/cn3xj6p11t1gnjcm31y0_8280000gn/T/8727217b-b71a-4e5f-9e79-3b04c9d04b23/var/www/html/livescopar-dev/icotoba/index.html",
+		"/Users/kazuhisa/Documents/ReiFrontier/YBC-LS/YBC-AR/proj4/PJ_cass.c",
+		"/Users/kazuhisa/Documents/ReiFrontier/YBC-LS/YBC-AR/proj4/PJ_cc.c",
+		"/Users/kazuhisa/Documents/ReiFrontier/YBC-LS/YBC-AR/proj4/PJ_cea.c",
+		"/Users/kazuhisa/Documents/ReiFrontier/YBC-LS/YBC-AR/proj4/PJ_chamb.c",
+		"/Users/kazuhisa/Documents/ReiFrontier/YBC-LS/YBC-AR/proj4/PJ_collg.c",
+		"/Users/kazuhisa/Documents/ReiFrontier/YBC-LS/YBC-AR/proj4/PJ_crast.c",
+		"/Users/kazuhisa/Documents/ReiFrontier/YBC-LS/YBC-AR/proj4/pj_ctx.c",
+		"/Users/kazuhisa/Documents/ReiFrontier/YBC-LS/YBC-AR/proj4/pj_datum_set.c",
+		"/Users/kazuhisa/Documents/ReiFrontier/YBC-LS/YBC-AR/proj4/pj_datums.c",
+		"/Users/kazuhisa/Documents/ReiFrontier/YBC-LS/YBC-AR/proj4/PJ_denoy.c",
+		"/Users/kazuhisa/Documents/ReiFrontier/YBC-LS/YBC-AR/proj4/PJ_eck1.c",
+		"/Users/kazuhisa/Documents/ReiFrontier/YBC-LS/YBC-AR/proj4/PJ_eck2.c",
+		"/Users/kazuhisa/Documents/ReiFrontier/YBC-LS/YBC-AR/proj4/PJ_eck3.c",
+		"/Users/kazuhisa/Documents/ReiFrontier/YBC-LS/YBC-AR/proj4/PJ_eck4.c",
+		"/Users/kazuhisa/Documents/ReiFrontier/YBC-LS/YBC-AR/proj4/PJ_eck5.c",
+		"/Users/kazuhisa/Documents/ReiFrontier/YBC-LS/YBC-AR/proj4/pj_ell_set.c",
+		"/Users/kazuhisa/Documents/ReiFrontier/YBC-LS/YBC-AR/proj4/PJ_eqc.c",
+		"/Users/kazuhisa/Documents/ReiFrontier/YBC-LS/YBC-AR/proj4/PJ_eqdc.c",
+		"/Users/kazuhisa/Documents/ReiFrontier/YBC-LS/YBC-AR/proj4/pj_errno.c",
+		"/Users/kazuhisa/Documents/ReiFrontier/YBC-LS/YBC-AR/proj4/pj_factors.c",
+		"/Users/kazuhisa/Documents/ReiFrontier/YBC-LS/YBC-AR/proj4/PJ_fahey.c",
+		"/Users/kazuhisa/Documents/ReiFrontier/YBC-LS/YBC-AR/proj4/PJ_fouc_s.c",
+		"/Users/kazuhisa/Documents/ReiFrontier/YBC-LS/YBC-AR/proj4/pj_fwd.c",
+		"/Users/kazuhisa/Documents/ReiFrontier/YBC-LS/YBC-AR/proj4/PJ_gall.c",
+		"/Users/kazuhisa/Documents/ReiFrontier/YBC-LS/YBC-AR/proj4/pj_gauss.c",
+		"/Users/kazuhisa/Documents/ReiFrontier/YBC-LS/YBC-AR/proj4/pj_geocent.c",
+		"/Users/kazuhisa/Documents/ReiFrontier/YBC-LS/YBC-AR/proj4/PJ_gins8.c",
+		"/Users/kazuhisa/Documents/ReiFrontier/YBC-LS/YBC-AR/proj4/PJ_gn_sinu.c",
+		"/Users/kazuhisa/Documents/ReiFrontier/YBC-LS/YBC-AR/proj4/PJ_gnom.c",
+		"/Users/kazuhisa/Documents/ReiFrontier/YBC-LS/YBC-AR/proj4/PJ_goode.c",
+		"/Users/kazuhisa/Documents/ReiFrontier/YBC-LS/YBC-AR/proj4/pj_gridinfo.c",
+		"/Users/kazuhisa/Documents/ReiFrontier/YBC-LS/YBC-AR/proj4/pj_gridlist.c",
+		"/Users/kazuhisa/Documents/ReiFrontier/YBC-LS/YBC-AR/proj4/PJ_gstmerc.c",
+		"/Users/kazuhisa/Documents/ReiFrontier/YBC-LS/YBC-AR/proj4/PJ_hammer.c",
+		"/Users/kazuhisa/Documents/ReiFrontier/YBC-LS/YBC-AR/proj4/PJ_hatano.c",
+		"/Users/kazuhisa/Documents/ReiFrontier/YBC-LS/YBC-AR/proj4/PJ_healpix.c",
+		"/Users/kazuhisa/Documents/ReiFrontier/YBC-LS/YBC-AR/proj4/PJ_igh.c",
+		"/Users/kazuhisa/Documents/ReiFrontier/YBC-LS/YBC-AR/proj4/PJ_imw_p.c",
+		"/Users/kazuhisa/Documents/ReiFrontier/YBC-LS/YBC-AR/proj4/pj_init.c",
+		"/Users/kazuhisa/Documents/ReiFrontier/YBC-LS/YBC-AR/proj4/pj_initcache.c",
+		"/Users/kazuhisa/Documents/ReiFrontier/YBC-LS/YBC-AR/proj4/pj_inv.c",
+		"/Users/kazuhisa/Documents/ReiFrontier/YBC-LS/YBC-AR/proj4/PJ_isea.c",
+		"/Users/kazuhisa/Documents/ReiFrontier/YBC-LS/YBC-AR/proj4/PJ_krovak.c",
+		"/Users/kazuhisa/Documents/ReiFrontier/YBC-LS/YBC-AR/proj4/PJ_labrd.c",
+		"/Users/kazuhisa/Documents/ReiFrontier/YBC-LS/YBC-AR/proj4/PJ_laea.c",
+		"/Users/kazuhisa/Documents/ReiFrontier/YBC-LS/YBC-AR/proj4/PJ_lagrng.c",
+		"/Users/kazuhisa/Documents/ReiFrontier/YBC-LS/YBC-AR/proj4/PJ_larr.c",
+		"/Users/kazuhisa/Documents/ReiFrontier/YBC-LS/YBC-AR/proj4/PJ_lask.c",
+		"/Users/kazuhisa/Documents/ReiFrontier/YBC-LS/YBC-AR/proj4/pj_latlong.c",
+		"/Users/kazuhisa/Documents/ReiFrontier/YBC-LS/YBC-AR/proj4/PJ_lcc.c",
+		"/Users/kazuhisa/Documents/ReiFrontier/YBC-LS/YBC-AR/proj4/PJ_lcca.c",
+		"/Users/kazuhisa/Documents/ReiFrontier/YBC-LS/YBC-AR/proj4/pj_log.c",
+		"/Users/kazuhisa/Documents/ReiFrontier/YBC-LS/YBC-AR/proj4/PJ_loxim.c",
+		"/Users/kazuhisa/Documents/ReiFrontier/YBC-LS/YBC-AR/proj4/PJ_lsat.c",
+		"/Users/kazuhisa/Documents/ReiFrontier/YBC-LS/YBC-AR/proj4/pj_malloc.c",
+		"/Users/kazuhisa/Documents/ReiFrontier/YBC-LS/YBC-AR/proj4/PJ_mbt_fps.c",
+		"/Users/kazuhisa/Documents/ReiFrontier/YBC-LS/YBC-AR/proj4/PJ_mbtfpp.c",
+		"/Users/kazuhisa/Documents/ReiFrontier/YBC-LS/YBC-AR/proj4/PJ_mbtfpq.c",
+		"/Users/kazuhisa/Documents/ReiFrontier/YBC-LS/YBC-AR/proj4/PJ_merc.c",
+		"/Users/kazuhisa/Documents/ReiFrontier/YBC-LS/YBC-AR/proj4/PJ_mill.c",
+		"/Users/kazuhisa/Documents/ReiFrontier/YBC-LS/YBC-AR/proj4/pj_mlfn.c",
+		"/Users/kazuhisa/Documents/ReiFrontier/YBC-LS/YBC-AR/proj4/PJ_mod_ster.c",
+		"/Users/kazuhisa/Documents/ReiFrontier/YBC-LS/YBC-AR/proj4/PJ_moll.c",
+		"/Users/kazuhisa/Documents/ReiFrontier/YBC-LS/YBC-AR/proj4/pj_msfn.c",
+		"/Users/kazuhisa/Documents/ReiFrontier/YBC-LS/YBC-AR/proj4/pj_mutex.c",
+		"/Users/kazuhisa/Documents/ReiFrontier/YBC-LS/YBC-AR/proj4/PJ_natearth.c",
+		"/Users/kazuhisa/Documents/ReiFrontier/YBC-LS/YBC-AR/proj4/PJ_nell.c",
+		"/Users/kazuhisa/Documents/ReiFrontier/YBC-LS/YBC-AR/proj4/PJ_nocol.c",
+		"/Users/kazuhisa/Documents/ReiFrontier/YBC-LS/YBC-AR/proj4/PJ_nzmg.c",
+		"/Users/kazuhisa/Documents/ReiFrontier/YBC-LS/YBC-AR/proj4/PJ_ob_tran.c",
+		"/Users/kazuhisa/Documents/ReiFrontier/YBC-LS/YBC-AR/proj4/PJ_ocea.c",
+		"/Users/kazuhisa/Documents/ReiFrontier/YBC-LS/YBC-AR/proj4/PJ_oea.c",
+		"/Users/kazuhisa/Documents/ReiFrontier/YBC-LS/YBC-AR/proj4/PJ_omerc.c",
+		"/Users/kazuhisa/Documents/ReiFrontier/YBC-LS/YBC-AR/proj4/pj_open_lib.c",
+		"/Users/kazuhisa/Documents/ReiFrontier/YBC-LS/YBC-AR/proj4/PJ_ortho.c",
+		"/Users/kazuhisa/Documents/ReiFrontier/YBC-LS/YBC-AR/proj4/pj_param.c",
+		"/Users/kazuhisa/Documents/ReiFrontier/YBC-LS/YBC-AR/proj4/pj_phi2.c",
+		"/Users/kazuhisa/Documents/ReiFrontier/YBC-LS/YBC-AR/proj4/PJ_poly.c",
+		"/Users/kazuhisa/Documents/ReiFrontier/YBC-LS/YBC-AR/proj4/pj_pr_list.c",
+		"/Users/kazuhisa/Documents/ReiFrontier/YBC-LS/YBC-AR/proj4/PJ_putp2.c",
+		"/Users/kazuhisa/Documents/ReiFrontier/YBC-LS/YBC-AR/proj4/PJ_putp3.c",
+		"/Users/kazuhisa/Documents/ReiFrontier/YBC-LS/YBC-AR/proj4/PJ_putp4p.c",
+		"/Users/kazuhisa/Documents/ReiFrontier/YBC-LS/YBC-AR/proj4/PJ_putp5.c",
+		"/Users/kazuhisa/Documents/ReiFrontier/YBC-LS/YBC-AR/proj4/PJ_putp6.c",
+		"/Users/kazuhisa/Documents/ReiFrontier/YBC-LS/YBC-AR/proj4/pj_qsfn.c",
+		"/Users/kazuhisa/Documents/ReiFrontier/YBC-LS/YBC-AR/proj4/pj_release.c",
+		"/Users/kazuhisa/Documents/ReiFrontier/YBC-LS/YBC-AR/proj4/PJ_robin.c",
+		"/Users/kazuhisa/Documents/ReiFrontier/YBC-LS/YBC-AR/proj4/PJ_rpoly.c",
+		"/Users/kazuhisa/Documents/ReiFrontier/YBC-LS/YBC-AR/proj4/PJ_sconics.c",
+		"/Users/kazuhisa/Documents/ReiFrontier/YBC-LS/YBC-AR/proj4/PJ_somerc.c",
+		"/Users/kazuhisa/Documents/ReiFrontier/YBC-LS/YBC-AR/proj4/PJ_stere.c",
+		"/Users/kazuhisa/Documents/ReiFrontier/YBC-LS/YBC-AR/proj4/PJ_sterea.c",
+		"/Users/kazuhisa/Documents/ReiFrontier/YBC-LS/YBC-AR/proj4/PJ_sts.c",
+		"/Users/kazuhisa/Documents/ReiFrontier/YBC-LS/YBC-AR/proj4/PJ_tcc.c",
+		"/Users/kazuhisa/Documents/ReiFrontier/YBC-LS/YBC-AR/proj4/PJ_tmerc.c",
+		"/Users/kazuhisa/Documents/ReiFrontier/YBC-LS/YBC-AR/proj4/PJ_tpeqd.c",
+		"/Users/kazuhisa/Documents/ReiFrontier/YBC-LS/YBC-AR/proj4/pj_transform.c",
+		"/Users/kazuhisa/Documents/ReiFrontier/YBC-LS/YBC-AR/proj4/pj_tsfn.c",
+		"/Users/kazuhisa/Documents/ReiFrontier/YBC-LS/YBC-AR/proj4/pj_units.c",
+		"/Users/kazuhisa/Documents/ReiFrontier/YBC-LS/YBC-AR/proj4/PJ_urm5.c",
+		"/Users/kazuhisa/Documents/ReiFrontier/YBC-LS/YBC-AR/proj4/PJ_urmfps.c",
+		"/Users/kazuhisa/Documents/ReiFrontier/YBC-LS/YBC-AR/proj4/pj_utils.c",
+		"/Users/kazuhisa/Documents/ReiFrontier/YBC-LS/YBC-AR/proj4/PJ_vandg.c",
+		"/Users/kazuhisa/Documents/ReiFrontier/YBC-LS/YBC-AR/proj4/PJ_vandg2.c",
+		"/Users/kazuhisa/Documents/ReiFrontier/YBC-LS/YBC-AR/proj4/PJ_vandg4.c",
+		"/Users/kazuhisa/Documents/ReiFrontier/YBC-LS/YBC-AR/proj4/PJ_wag2.c",
+		"/Users/kazuhisa/Documents/ReiFrontier/YBC-LS/YBC-AR/proj4/PJ_wag3.c",
+		"/Users/kazuhisa/Documents/ReiFrontier/YBC-LS/YBC-AR/proj4/PJ_wag7.c",
+		"/Users/kazuhisa/Documents/ReiFrontier/YBC-LS/YBC-AR/proj4/PJ_wink1.c",
+		"/Users/kazuhisa/Documents/ReiFrontier/YBC-LS/YBC-AR/proj4/PJ_wink2.c",
+		"/Users/kazuhisa/Documents/ReiFrontier/YBC-LS/YBC-AR/proj4/pj_zpoly1.c",
+		"/Users/kazuhisa/Documents/ReiFrontier/YBC-LS/YBC-AR/proj4/proj_etmerc.c",
+		"/Users/kazuhisa/Documents/ReiFrontier/YBC-LS/YBC-AR/proj4/proj_mdist.c",
+		"/Users/kazuhisa/Documents/ReiFrontier/YBC-LS/YBC-AR/proj4/rtodms.c",
+		"/Users/kazuhisa/Documents/ReiFrontier/YBC-LS/YBC-AR/proj4/vector1.c"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"p-text-checked",
+			"Popinfo",
+			"popinfo_id",
+			"_find_environment_variable",
+			"set_variable",
+			"ANDROID_SDK_ROOT",
+			"_find_environment_variable",
+			"set_variable",
+			"_find_environment_variable",
+			"myre",
+			"myTab",
+			"sync",
+			"<projects.h>",
+			"videoExportDone",
+			"SampleApplicationSession",
+			"p5",
+			"h3",
+			"月",
+			"付き",
+			"20",
+			"line-he",
+			"margin-top:1.5",
+			"margin-top:",
+			"margin-top:1.5",
+			"margin-top",
+			"-",
+			"margin-top:1.5em",
+			"margin-top",
+			".entry-content",
+			"#header",
+			"header",
+			"ul li",
+			"column",
+			"header",
+			"super+d",
+			"line",
+			"lines",
+			"delete_",
+			"super+d",
+			"theme",
+			"        \n",
+			"=",
+			"item2",
+			"item1",
+			"のあと",
+			"AppConstants",
+			"onTouchListener",
+			"adapter",
+			"mscreen",
+			"changeStatusDelete",
+			"isshow",
+			"rightHeaderAction",
+			"rightHeaderAction();",
+			"rightHeaderAction()",
+			"addTabbar",
+			"isShowTabHistory",
+			"right",
+			"addTabbar",
+			"isEdit",
+			"mIvLogo",
+			"mCbStatus",
+			"checkbox",
+			"mCbStatus",
+			"dialog",
+			"onclick",
+			"fShowHelp2",
+			"showhelp2",
+			"m_lockTask",
+			"m_viewTaskBar",
+			"addView",
+			"addTabbar",
+			"llTabbarPanel",
+			"addTabbar",
+			"nextToCamera",
+			"intent",
+			"tab",
+			"footer"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"\"projects.h\""
+		],
+		"reverse": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 37.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"",
+				"adapters/HistoryAdapter.java"
+			],
+			[
+				"in",
+				"/Users/kazuhisa/Dropbox/vantan/131115_html/HTML_dot/index.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 257.0,
+	"status_bar_visible": true
+}
