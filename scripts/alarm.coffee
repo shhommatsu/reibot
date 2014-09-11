@@ -18,9 +18,9 @@
 cronJob = require('cron').CronJob
 
 module.exports = (robot) ->
-	new cronJob '00 08 16 * * 1-5', () =>
-    	robot.send {room: '#reibottest'},':dusty_stick:　掃除の時間だよ！掃除してね！'
-    	,null,true,'Asia/Tokyo'
-    new cronJob '30 08 16 * * 1-5', () =>
-    	robot.send {room: '#reibottest'},':dusty_stick:　掃除の時間だよ！ちゃんとしてる？？'
-    	,null,true,'Asia/Tokyo'
+	new cronJob '00 12 16 * * 1-5', () =>
+    	robot.send {room: "#reibottest"},":dusty_stick:　掃除の時間だよ！掃除してね！"
+    	,null,true,"Asia/Tokyo"
+    new cronJob '30 12 16 * * 1-5', () =>
+    	robot.send {room: "#reibottest"},":dusty_stick:　掃除の時間だよaaaa！掃除してね！"
+    	,null,true,"Asia/Tokyo"
