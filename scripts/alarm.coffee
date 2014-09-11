@@ -25,7 +25,12 @@ module.exports = (robot) ->
 
     robot.send user, message
 
-	cronjob1 = new cronJob('00 23 11 * * 1-5', () =>
+    cronjob0 = new cronJob('00 25 15 * * 1-5', () =>
+	    say ":sunrise: おはようございます。始業ですよ。朝会です。"
+	)
+	cronjob0.start()
+
+	cronjob1 = new cronJob('00 11 * * 2-5', () =>
 	    say ":sunrise: おはようございます。始業ですよ。朝会です。"
 	)
 	cronjob1.start()
