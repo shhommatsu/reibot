@@ -4,6 +4,10 @@
 		"selected_items":
 		[
 			[
+				"u",
+				"user"
+			],
+			[
 				"mar",
 				"margin-left"
 			],
@@ -135,6 +139,14 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "scripts/rei.coffee",
+			"settings":
+			{
+				"buffer_size": 673,
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "",
 	"command_palette":
@@ -184,9 +196,20 @@
 	},
 	"file_history":
 	[
+		"/Users/kazuhisa/rei_bot/scripts/alarm.coffee",
+		"/Users/kazuhisa/rei_bot/scripts/events.coffee",
+		"/Users/kazuhisa/rei_bot/package.json",
+		"/Users/kazuhisa/rei_bot/node_modules/hubot-slack/package.json",
+		"/Users/kazuhisa/rei_bot/external-scripts.json",
+		"/Users/kazuhisa/rei_bot/node_modules/hubot-weather-ja/package.json",
+		"/Users/kazuhisa/rei_bot/scripts/ping.coffee",
+		"/Users/kazuhisa/rei_bot/node_modules/hubot-weather-ja/config/weather_area_list.json",
+		"/Users/kazuhisa/rei_bot/node_modules/hubot-weather-ja/scripts/weather-ja.coffee",
+		"/Users/kazuhisa/rei_bot/scripts/rei.coffee",
+		"/Users/kazuhisa/rei_bot/hubot-scripts.json",
+		"/Users/kazuhisa/rei_bot/scripts/rules.coffee",
 		"/Users/kazuhisa/rei_bot/Procfile",
 		"/Users/kazuhisa/rei_bot/scripts/storage.coffee",
-		"/Users/kazuhisa/rei_bot/scripts/ping.coffee",
 		"/Users/kazuhisa/Dropbox/style.css",
 		"/Users/kazuhisa/Dropbox/撮ってインフォ納品物20140820/aeonapp_ios/Libs/wd_common.h",
 		"/Users/kazuhisa/Downloads/index.html",
@@ -300,18 +323,7 @@
 		"/Users/kazuhisa/Documents/ReiFrontier/YBC-LS/YBC-AR/proj4/PJ_urmfps.c",
 		"/Users/kazuhisa/Documents/ReiFrontier/YBC-LS/YBC-AR/proj4/pj_utils.c",
 		"/Users/kazuhisa/Documents/ReiFrontier/YBC-LS/YBC-AR/proj4/PJ_vandg.c",
-		"/Users/kazuhisa/Documents/ReiFrontier/YBC-LS/YBC-AR/proj4/PJ_vandg2.c",
-		"/Users/kazuhisa/Documents/ReiFrontier/YBC-LS/YBC-AR/proj4/PJ_vandg4.c",
-		"/Users/kazuhisa/Documents/ReiFrontier/YBC-LS/YBC-AR/proj4/PJ_wag2.c",
-		"/Users/kazuhisa/Documents/ReiFrontier/YBC-LS/YBC-AR/proj4/PJ_wag3.c",
-		"/Users/kazuhisa/Documents/ReiFrontier/YBC-LS/YBC-AR/proj4/PJ_wag7.c",
-		"/Users/kazuhisa/Documents/ReiFrontier/YBC-LS/YBC-AR/proj4/PJ_wink1.c",
-		"/Users/kazuhisa/Documents/ReiFrontier/YBC-LS/YBC-AR/proj4/PJ_wink2.c",
-		"/Users/kazuhisa/Documents/ReiFrontier/YBC-LS/YBC-AR/proj4/pj_zpoly1.c",
-		"/Users/kazuhisa/Documents/ReiFrontier/YBC-LS/YBC-AR/proj4/proj_etmerc.c",
-		"/Users/kazuhisa/Documents/ReiFrontier/YBC-LS/YBC-AR/proj4/proj_mdist.c",
-		"/Users/kazuhisa/Documents/ReiFrontier/YBC-LS/YBC-AR/proj4/rtodms.c",
-		"/Users/kazuhisa/Documents/ReiFrontier/YBC-LS/YBC-AR/proj4/vector1.c"
+		"/Users/kazuhisa/Documents/ReiFrontier/YBC-LS/YBC-AR/proj4/PJ_vandg2.c"
 	],
 	"find":
 	{
@@ -425,8 +437,35 @@
 	"groups":
 	[
 		{
+			"selected": 0,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "scripts/rei.coffee",
+					"settings":
+					{
+						"buffer_size": 673,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								673,
+								673
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CoffeeScript/CoffeeScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
 			]
 		}
 	],
