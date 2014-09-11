@@ -146,6 +146,14 @@
 				"buffer_size": 673,
 				"line_ending": "Unix"
 			}
+		},
+		{
+			"file": "scripts/alarm.coffee",
+			"settings":
+			{
+				"buffer_size": 532,
+				"line_ending": "Unix"
+			}
 		}
 	],
 	"build_system": "",
@@ -437,7 +445,7 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 1,
 			"sheets":
 			[
 				{
@@ -454,6 +462,32 @@
 							[
 								673,
 								673
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CoffeeScript/CoffeeScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "scripts/alarm.coffee",
+					"settings":
+					{
+						"buffer_size": 532,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								433,
+								433
 							]
 						],
 						"settings":

@@ -24,6 +24,6 @@ module.exports = (robot) ->
    #  	robot.send envelope, ":dusty_stick:　掃除の時間だよ！掃除してね！"
   	# 	)
   	# cronjob.start()
-  	new cronJob '0 35 16 * * 1-5', () =>
-    robot.send {room: "#reibottest"}, ":dusty_stick:　掃除の時間だよ！掃除してね！"
-  , null, true, "Asia/Tokyo"
+  # 	new cronJob '0 35 16 * * 1-5', () =>
+  #   robot.send {room: "#reibottest"}, ":dusty_stick:　掃除の時間だよ！掃除してね！"
+  # , null, true, "Asia/Tokyo"
