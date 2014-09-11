@@ -18,3 +18,4 @@
 module.exports = (robot) ->
 	robot.hear /hoge/i, (msg) ->
     msg.send "@#{msg.message.user.name}, hogeとか.......さむ"
+    msg.send "@#{msg.message.user.name}, もう二度とhogeとかつぶやかないで下さいね！"
