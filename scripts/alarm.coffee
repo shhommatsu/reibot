@@ -15,7 +15,7 @@
 #
 # Author:
 #  shhommatsu
-cron = require('cron').CronJob
+cronJob = require('cron').CronJob
 
 module.exports = (robot) ->
 	say = (message) ->
@@ -25,7 +25,7 @@ module.exports = (robot) ->
 
     robot.send user, message
 
-	cronjob1 = new cronJob('00 21 11 * * 1-5', () =>
+	cronjob1 = new cronJob('00 23 11 * * 1-5', () =>
 	    say ":sunrise: おはようございます。始業ですよ。朝会です。"
 	)
 	cronjob1.start()
